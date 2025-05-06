@@ -1,0 +1,88 @@
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## 忽略ビルド成果物
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]og/
+
+## ASP.NET を使っている場合のログファイル
+*.log
+
+## Visual Studio Code の設定（任意）
+.vscode/
+
+## Windows 固有のファイル
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## MacOS 固有のファイル
+.DS_Store
+
+## Git 忽略設定（マージ競合など）
+*.orig
+
+## NuGet パッケージ
+*.nupkg
+packages/
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## 署名証明書
+*.pfx
+*.key
+
+## dotCover（JetBrains系ツール）
+.idea/
+*.dotCover
+
+## Rider（JetBrains Rider IDE）
+.idea/
+*.sln.iml
+
+## Resharper 一時ファイル
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Unity（もし使用している場合）
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.booproj
+*.svd
+
+## Test結果ファイル
+TestResult*/  
+*.coverage  
+*.coveragexml
+
+## others
+*.db
+*.bak
+*.tmp
+*.swp
+*.sln.cache
+*.ncrunch*
+
+## 最後に：秘密ファイル（APIキーなど）
+secrets.json
+*.env
+.env.*
