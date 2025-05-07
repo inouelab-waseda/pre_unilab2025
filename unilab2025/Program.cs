@@ -11,7 +11,7 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using System.Threading;
 
-namespace unilab2024
+namespace unilab2025
 {
     #region Main関数
     internal static class Program
