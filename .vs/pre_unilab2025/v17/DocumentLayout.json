@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "unilab2025\\unilab2025.csproj",
               "ToolTip": "C:\\Users\\ryota\\source\\repos\\inouelab-waseda\\pre_unilab2025\\unilab2025\\unilab2025.csproj",
               "RelativeToolTip": "unilab2025\\unilab2025.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-07T01:52:00.612Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "unilab2025\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:32:37.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T15:32:37.837Z"
             },
             {
               "$type": "Document",
@@ -62,10 +61,9 @@
               "RelativeDocumentMoniker": ".gitattributes",
               "ToolTip": "C:\\Users\\ryota\\source\\repos\\inouelab-waseda\\pre_unilab2025\\.gitattributes",
               "RelativeToolTip": ".gitattributes",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-06T15:32:35.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T15:32:35.714Z"
             },
             {
               "$type": "Document",
@@ -75,14 +73,9 @@
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "C:\\Users\\ryota\\source\\repos\\inouelab-waseda\\pre_unilab2025\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsBAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAACYBAAAAAAAAAAAAAGsBAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-06T15:08:27.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-05-06T15:08:27.908Z"
             }
           ]
         }
