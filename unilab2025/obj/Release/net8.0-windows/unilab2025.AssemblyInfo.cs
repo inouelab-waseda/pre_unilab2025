@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("unilab2025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cff4ff7b1d77d70e9f507ff8739a142f29a0477")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd14d45986e1f2b6827335f7a9b15058a10aea6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("unilab2025")]
 [assembly: System.Reflection.AssemblyTitleAttribute("unilab2025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
