@@ -1,6 +1,6 @@
 ﻿namespace unilab2025
 {
-    partial class Form1
+    partial class Title
     {
         /// <summary>
         ///  Required designer variable.
