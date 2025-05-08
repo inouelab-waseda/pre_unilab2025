@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static unilab2025.Program;
+
 
 namespace unilab2025
 {
@@ -15,6 +17,25 @@ namespace unilab2025
         public Title()
         {
             InitializeComponent();
+        }
+
+        private void buttonStart_Click(object sender, EventArgs e)
+        {
+            string worldName;
+            int worldNumber;
+            int level;
+            switch (CurrentFormState.FormName)
+            {
+                case "Prologue":
+                    Program.Func.CreatePrologue(this);
+                    break;
+
+            }
+        }
+
+        private void Title_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
