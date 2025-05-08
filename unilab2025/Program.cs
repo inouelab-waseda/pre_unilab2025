@@ -1,19 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Runtime.InteropServices;
-using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Drawing;
-using System.Drawing.Imaging;
-using System.Threading;
 
-namespace unilab2024
+namespace unilab2025
 {
-    #region Main関数
     internal static class Program
     {
         /// <summary>
@@ -24,9 +16,7 @@ namespace unilab2024
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-
             Application.Run(new Title());
         }
     }
-# endregion﻿using System;
 }
