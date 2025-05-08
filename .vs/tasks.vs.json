@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "タスク-Title",
+      "appliesTo": "unilab2025/Title.cs",
+      "type": "launch"
+    }
+  ]
+}
