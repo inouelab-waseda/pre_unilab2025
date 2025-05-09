@@ -37,9 +37,9 @@
             // 
             // buttonStart
             // 
-            this.buttonStart.Location = new System.Drawing.Point(496, 448);
+            this.buttonStart.Location = new System.Drawing.Point(745, 780);
             this.buttonStart.Name = "buttonStart";
-            this.buttonStart.Size = new System.Drawing.Size(203, 71);
+            this.buttonStart.Size = new System.Drawing.Size(423, 174);
             this.buttonStart.TabIndex = 0;
             this.buttonStart.Text = "はじめる";
             this.buttonStart.UseVisualStyleBackColor = true;
@@ -51,7 +51,7 @@
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Location = new System.Drawing.Point(2, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(1300, 700);
+            this.pictureBox1.Size = new System.Drawing.Size(1920, 1300);
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
@@ -59,7 +59,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1282, 653);
+            this.ClientSize = new System.Drawing.Size(1902, 1153);
             this.Controls.Add(this.buttonStart);
             this.Controls.Add(this.pictureBox1);
             this.Name = "Title";
