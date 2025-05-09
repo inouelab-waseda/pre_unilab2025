@@ -8,3 +8,4 @@ C:\Users\ryota\source\repos\pre_unilab2025\unilab2025\bin\Debug\unilab2025.exe
 C:\Users\ryota\source\repos\pre_unilab2025\unilab2025\bin\Debug\unilab2025.pdb
 C:\Users\ryota\source\repos\pre_unilab2025\unilab2025\obj\Debug\unilab2025.exe
 C:\Users\ryota\source\repos\pre_unilab2025\unilab2025\obj\Debug\unilab2025.pdb
+C:\Users\ryota\Source\Repos\pre_unilab2025\unilab2025\obj\Debug\unilab2025.Prologue.resources
